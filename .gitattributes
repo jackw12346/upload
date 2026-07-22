@@ -1,0 +1,2 @@
+10.0.18362.1.19H1_RELEASE.190318-1202_AMD64FRE_CLIENT-MULTISKU_RETAIL_EN-US-CCSA_X64FRE_EN-US_DV5.iso.zip filter=lfs diff=lfs merge=lfs -text
+win10_iso_part_* filter=lfs diff=lfs merge=lfs -text
